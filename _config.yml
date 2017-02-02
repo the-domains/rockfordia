@@ -1,0 +1,26 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Rockfordia
+layout_spectrum: 0.8175268662162125
+typography_spectrum: 0.9497349099256098
+color:
+  brandStrength: 0.7177995997481048
+  lightness: 0.9914760023821145
+  saturation: 0.40764925023540854
+  rhythmicContrast: 0.9958224045112729
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+content: []
+title: Rockfordia
+description: ''
+github: true
+url: 'https://rockfordia.com'
