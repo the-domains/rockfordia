@@ -24,3 +24,7 @@ title: Rockfordia
 description: ''
 github: true
 url: 'https://rockfordia.com'
+purpose:
+  - type: external
+    url: 'https://domains.rockfordia.com'
+    label: Buy a Domain Name
